@@ -282,6 +282,34 @@ donor-response-prediction-machine-learning/
 | **Techniques Applied** | Exploratory Data Analysis (EDA), Data Preprocessing, Feature Engineering, Binary Classification, Model Evaluation, Cross Validation, Hyperparameter Optimization |
 ---
 
+# ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Mijaniub/donor-response-prediction-machine-learning.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd donor-response-prediction-machine-learning
+```
+
+### 3. Install the required dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 5. Open the notebook and run all cells sequentially.
+
 # 🚀 Future Improvements
 
 Potential improvements include:
