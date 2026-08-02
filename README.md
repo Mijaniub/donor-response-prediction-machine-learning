@@ -1,11 +1,7 @@
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│        Predicting Donor Response using Machine Learning      │
-│                                                              │
-│      Binary Classification • Python • Scikit-Learn          │
-│        Data Science • NOVA IMS Portfolio Project             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="images/banner.png" alt="Project Banner" width="100%">
+</p>
+
 
 
 
