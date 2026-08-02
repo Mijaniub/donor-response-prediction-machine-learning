@@ -1,5 +1,13 @@
 # 🎯 Predicting Donor Response using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 > An end-to-end Machine Learning project focused on predicting donor response for fundraising campaigns using binary classification techniques.
 
 > **Note:** This project was completed as part of a group assignment for the **Data Science & Machine Learning** course at **NOVA Information Management School (NOVA IMS)**. This repository is shared as part of my professional portfolio to demonstrate the machine learning techniques, analytical workflow, and business insights explored during the project.
@@ -7,6 +15,24 @@
 ---
 
 # 📌 Executive Summary
+
+## 📑 Table of Contents
+
+- [Executive Summary](#-executive-summary)
+- [Business Problem](#-business-problem)
+- [Dataset](#-dataset)
+- [Project Workflow](#️-project-workflow)
+- [Exploratory Data Analysis](#-exploratory-data-analysis)
+- [Data Preprocessing](#-data-preprocessing)
+- [Machine Learning Models](#-machine-learning-models)
+- [Model Evaluation](#-model-evaluation)
+- [Final Model](#-final-model)
+- [Business Insights](#-business-insights)
+- [Repository Structure](#-repository-structure)
+- [Technologies Used](#-technologies-used)
+- [Future Improvements](#-future-improvements)
+- [Project Team](#-project-team)
+- [Portfolio Author](#-portfolio-author)
 
 Nonprofit organizations often contact thousands of potential donors during fundraising campaigns. However, sending outreach to every individual is inefficient, costly, and may reduce donor engagement over time.
 
@@ -34,6 +60,17 @@ Successfully solving this problem enables organizations to:
 - Support data-driven decision making
 
 ---
+
+## 🚀 Project Highlights
+
+- ✅ End-to-end Machine Learning pipeline
+- ✅ Binary Classification
+- ✅ Data Cleaning & Feature Engineering
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Multiple Machine Learning Models
+- ✅ Model Evaluation & Optimization
+- ✅ Kaggle Competition Submission
+- ✅ Business-focused Insights
 
 # 📊 Dataset
 
@@ -134,7 +171,7 @@ The overall modeling process included:
 
 The final model was selected based on its overall predictive performance and generalization capability.
 
----
+--- 
 
 # 📉 Model Evaluation
 
@@ -150,6 +187,37 @@ Model performance was assessed using appropriate classification metrics, includi
 The evaluation process ensured that the selected model balanced predictive accuracy with practical business value.
 
 ---
+
+# 📷 Project Visualizations
+
+### Correlation Analysis
+
+![Correlation](images/correlation_heatmap.png)
+
+---
+
+### Missing Values
+
+![Missing Values](images/missing_values.png)
+
+---
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+---
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
 
 # 🏆 Final Model
 
@@ -196,18 +264,15 @@ donor-response-prediction-machine-learning/
 
 # 🛠 Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Machine Learning
-- Binary Classification
-- Data Preprocessing
-- Feature Engineering
-
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Language** | Python |
+| **Data Analysis** | Pandas, NumPy |
+| **Data Visualization** | Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-learn |
+| **Development Environment** | Jupyter Notebook |
+| **Version Control** | Git & GitHub |
+| **Techniques Applied** | Exploratory Data Analysis (EDA), Data Preprocessing, Feature Engineering, Binary Classification, Model Evaluation, Cross Validation, Hyperparameter Optimization |
 ---
 
 # 🚀 Future Improvements
