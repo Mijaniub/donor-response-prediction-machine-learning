@@ -1,3 +1,14 @@
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│        Predicting Donor Response using Machine Learning      │
+│                                                              │
+│      Binary Classification • Python • Scikit-Learn          │
+│        Data Science • NOVA IMS Portfolio Project             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+
+
+
 # 🎯 Predicting Donor Response using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
